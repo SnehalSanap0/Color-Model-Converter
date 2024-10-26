@@ -7,7 +7,6 @@ import numpy as np
 
 from tkinter import font as tkfont
 
-# Function to convert RGB to HSVC:\Users\sanch\OneDrive\Documents\2sem3\CG\miniproject\rgb1.py
 def rgb_to_hsv(r, g, b):
     r, g, b = r / 255.0, g / 255.0, b / 255.0
     return colorsys.rgb_to_hsv(r, g, b)
