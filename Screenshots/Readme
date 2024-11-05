@@ -1,11 +1,1 @@
-# Screenshots
 
-This folder contains images of the **Color Conversion Tool** project, showcasing key features:
-
-1. **Main Interface**: The Tkinter GUI with RGB sliders and color display.
-2. **Slider Adjustments**: Changing RGB values and real-time color updates.
-3. **Color Conversions**: Display of converted HSV and CMY values.
-4. **Event Handling**: Responsive updates as sliders are moved.
-5. **Final Display**: The color output after adjusting all RGB sliders.
-
-These images demonstrate the tool’s interactive interface and conversion functionalities.
